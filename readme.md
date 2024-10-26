@@ -11,7 +11,7 @@ OpenWeatherMap API
 
 ## Instruction
 ### Clone the github repository
-    https://github.com/chebrolusathvik/Zeo_Tap-Assignment.git
+    https://github.com/ranjithG03/Zeo_tap.git
 ### For assignment 1
     cd Zeo_Tap-Assignment/APPLICATION1
 ### For assignment 2
